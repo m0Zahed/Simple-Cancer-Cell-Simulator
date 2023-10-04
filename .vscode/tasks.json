@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Compile",
+			"command": "g++ -g demo.cpp glad.c shader.cpp points.cpp shapes.cpp point.cpp -o test -lGL -lGLU -lglfw3 -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
