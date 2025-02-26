@@ -16,7 +16,7 @@ With intel oneTBB, hardware multi-threading is explicitly specified otherwise th
 ![image](https://github.com/user-attachments/assets/42251200-7a44-4389-a9fa-22702f508c9c)
 
 ### Code Structure
-
+```
 ├── build/              # CMake build directory (generated files)
 ├── CMakeLists.txt      # Main CMake build configuration
 ├── demo.cpp            # Main entry point (contains main() function)
@@ -37,4 +37,4 @@ With intel oneTBB, hardware multi-threading is explicitly specified otherwise th
 ├── value_tracker.cpp   # Similar to tracker.cpp but for specific value tracking
 ├── value_tracker.h     # Header for value-tracking declarations
 └── vertexShader.glsl   # GLSL vertex shader source
-
+```
