@@ -6,7 +6,7 @@
 ### Simple Cancer Cell Simulator
 
 Simple simulator built to compare performance of software multi-threading, hardware multi-threading and GPU kernels. 
-Cancer cells are represented by the yellow color and healthy cells are red, they steal nutrients from healty cells and form clusters. 
+Cancer cells are represented by the red color and healthy cells are green, they steal nutrients from healty cells and form clusters. Medicinal cell are yellow, they consume cancer cells and exit through the corners. 
 
 ### Results
 
