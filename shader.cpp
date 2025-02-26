@@ -119,7 +119,7 @@ void Shader::parser(const std::string& location)
     }
 }
 
-/*
+/**
 *   @brief The follow are setters for the uniforms in the shader program.
 *
 *

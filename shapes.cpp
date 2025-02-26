@@ -23,3 +23,8 @@ Shapes::Shapes(const float* vertices_,unsigned int data_buffer_size) : vertices(
     // glBindVertexArray(0);
 }
 
+int Shapes::get_buffer()
+{
+    return VBO;
+}
+

@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/demo.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/demo.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/demo.cpp"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/demo.dir/glad.c.o   -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/glad.c",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/glad.c"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/shader.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/shader.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/shader.cpp"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/points.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/points.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/points.cpp"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/shapes.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/shapes.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/shapes.cpp"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/point.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/point.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/point.cpp"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/tracker.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/tracker.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/tracker.cpp"
+},
+{
+  "directory": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/value_tracker.cpp.o -c /home/z4hed/Desktop/TrashCan/COMP426/Experiment/value_tracker.cpp",
+  "file": "/home/z4hed/Desktop/TrashCan/COMP426/Experiment/value_tracker.cpp"
+}
+]

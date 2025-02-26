@@ -6,7 +6,7 @@ class point{
         float x, y;
         float r, g, b, a;
         int type; // Cancerous: 4, Non-Cancerous: 0, Medicated Cels: -60 
-        int index_of_injection[2];
+        int index_of_injection[2] = {0,0};
         point();
         point(float,float);
         void set_rgba(float,float,float,float);
